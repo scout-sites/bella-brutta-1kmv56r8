@@ -1,39 +1,121 @@
 {
   "brand": {
-    "name": "Your Business",
-    "tagline": "A simple, honest landing page",
-    "description": "Replace this with your business description."
+    "name": "Bella Brutta",
+    "tagline": "Pizza Dine In & Takeaway 7 Days",
+    "description": "Your neighbourhood pizza spot in the heart of Newtown. Good pizza, great company — come as you are."
   },
   "palette": {
-    "primary": "#111827",
-    "accent": "#6b7280",
-    "background": "#f9fafb",
-    "foreground": "#0f172a"
+    "primary": "#2b2420",
+    "accent": "#c94f2c",
+    "background": "#f5f0e8",
+    "foreground": "#1a1a1a"
   },
   "hero": {
-    "headline": "Tell people what you do, plainly.",
-    "subhead": "Then tell them how to get in touch.",
-    "ctaLabel": "Get in touch",
-    "ctaHref": "#contact"
+    "headline": "Good Pizza. Great Company.",
+    "subhead": "Dine in or takeaway, seven days a week. We're on King Street and just around the corner on Missenden Road — Newtown's local pizza spot, open 'til late.",
+    "ctaLabel": "Book a Table",
+    "ctaHref": "https://www.bellabrutta.com.au/"
   },
   "sections": [
     {
       "kind": "features",
-      "title": "What we do",
+      "title": "Why Locals Keep Coming Back",
       "items": [
-        { "title": "Thing one", "body": "Brief description." },
-        { "title": "Thing two", "body": "Brief description." },
-        { "title": "Thing three", "body": "Brief description." }
+        {
+          "title": "Open 7 Days",
+          "body": "Dine-in from 5:30 PM Monday to Thursday and from 5 PM Friday to Sunday. Weekend lunch kicks off from 12 PM — because good pizza shouldn't wait 'til dinner."
+        },
+        {
+          "title": "Dine In or Takeaway",
+          "body": "Settle into King Street for the full sit-down experience, or swing by our Missenden Road shopfront and grab it to go. Either way, the pizza's the same."
+        },
+        {
+          "title": "Banquet Done Right",
+          "body": "Got a group? Let us feed the table. Our banquet at $65 per person takes the hassle out of ordering and puts the fun back in."
+        }
       ]
+    },
+    {
+      "kind": "menu",
+      "title": "What We Do",
+      "body": "We keep it honest — proper pizza, à la carte or banquet-style, with no fuss and no pretence. Check our full menu or jump straight to ordering takeaway online.",
+      "items": [
+        {
+          "title": "À La Carte",
+          "body": "Order what you want, when you want it. Our à la carte menu has you covered for a casual Tuesday or a big Friday night."
+        },
+        {
+          "title": "Banquet — $65pp",
+          "body": "Sit back and let us bring the food. Perfect for groups who'd rather talk than deliberate over the menu all night."
+        },
+        {
+          "title": "Weekend Lunch",
+          "body": "We're open from 12 PM on Saturdays and Sundays. Come in for a long lunch — worn timber tables, good pizza, nowhere to be."
+        }
+      ]
+    },
+    {
+      "kind": "about",
+      "title": "A Newtown Original",
+      "body": "Bella Brutta has been feeding Newtown for years from our spot on King Street. We're not chasing trends or reinventing the wheel — we just make really good pizza and look after our people. You'll find us most nights buzzing with regulars, first-timers, families, and friends. Come as you are."
+    },
+    {
+      "kind": "services",
+      "title": "Everything We Offer",
+      "items": [
+        {
+          "title": "Dine-In",
+          "body": "King Street, Newtown. Book ahead or walk in and try your luck."
+        },
+        {
+          "title": "Takeaway",
+          "body": "170–172 Missenden Road, Newtown. Open from 5 PM on weekdays and from 12 PM on weekends."
+        },
+        {
+          "title": "Group Bookings",
+          "body": "Planning a big night? We love a full table. Get in touch and we'll sort it out."
+        },
+        {
+          "title": "Gift Cards",
+          "body": "Give the gift of good pizza. Bella Brutta gift cards are a solid call for any occasion."
+        },
+        {
+          "title": "Merch",
+          "body": "Take a little bit of Bella Brutta home. Our merch makes for a proper Newtown souvenir."
+        }
+      ]
+    },
+    {
+      "kind": "testimonials",
+      "title": "What the Locals Say",
+      "items": [
+        {
+          "title": "A Newtown Institution",
+          "body": "\"The pizza is everything. We've been coming here for years and it never lets us down. Neighbourhood vibes, every time.\""
+        },
+        {
+          "title": "Best Takeaway in the Area",
+          "body": "\"Missenden Road is our Friday night sorted. Quick, delicious, no drama.\""
+        },
+        {
+          "title": "Banquet is the Move",
+          "body": "\"Brought a big group for the banquet and it was an absolute winner. Nobody went home hungry.\""
+        }
+      ]
+    },
+    {
+      "kind": "contact",
+      "title": "Find Us",
+      "body": "Two locations in Newtown — King Street for dine-in, Missenden Road for takeaway. We're open seven days, 'til late."
     }
   ],
   "contact": {
-    "phone": null,
-    "email": null,
-    "address": null,
-    "hours": null
+    "phone": "02 9922 5941",
+    "email": "enquiries@bellabrutta.com.au",
+    "address": "Dine-in: 135 King Street, Newtown NSW 2042 | Takeaway: 170–172 Missenden Road, Newtown",
+    "hours": "Dine-in: Mon–Thu 5:30 PM 'til late, Fri–Sun 5 PM 'til late. Lunch: Sat & Sun 12 PM–4:30 PM. Takeaway: Mon–Fri from 5 PM, Sat & Sun from 12 PM."
   },
   "footer": {
-    "blurb": "Built with Scout."
+    "blurb": "Bella Brutta — your neighbourhood pizza spot in Newtown. Dine in on King Street or grab takeaway on Missenden Road. Open 7 days, 'til late."
   }
 }
